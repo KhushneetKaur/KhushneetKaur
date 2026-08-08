@@ -1,9 +1,9 @@
 ```
    ╔═══════════════════════════════════════════════════════════════════════╗
    ║                                                                       ║
-   ║           👨‍💻 KHUSHNEET KAUR | Full-Stack × AI/ML Enthusiast         ║
+   ║           👨‍💻 KHUSHNEET KAUR | Full-Stack × AI/ML Enthusiast           ║
    ║                                                                       ║
-   ║              Brewing code ☕ | Building cool stuff 🚀               ║
+   ║              Brewing code ☕ | Building cool stuff 🚀                ║
    ║                                                                       ║
    ╚═══════════════════════════════════════════════════════════════════════╝
 ```
@@ -97,7 +97,7 @@ Forever    → Never Stop Building 🔥
 
 <div align="center">
 
-**[LinkedIn](https://linkedin.com/in/khushneet)** • **[GitHub](https://github.com/KhushneetKaur)** • **[Email](mailto:khushneet@example.com)**
+**[LinkedIn](https://linkedin.com/in/khushneet)** • **[GitHub](https://github.com/KhushneetKaur)** • **[Email](mailto:khushneetgirgla@gmail.com)**
 
 </div>
 
