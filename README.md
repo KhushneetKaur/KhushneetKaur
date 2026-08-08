@@ -1,142 +1,98 @@
-```
-   ╔═══════════════════════════════════════════════════════════════════════╗
-   ║                                                                       ║
-   ║           👨‍💻 KHUSHNEET KAUR | Full-Stack × AI/ML Enthusiast           ║
-   ║                                                                       ║
-   ║              Brewing code ☕ | Building cool stuff 🚀                ║
-   ║                                                                       ║
-   ╚═══════════════════════════════════════════════════════════════════════╝
-```
-
----
-
-## 🎯 **Current Mission**
-> _Transitioning from **MERN mastery** → **AI/ML universe** while perfecting DSA and crushing academic goals_ 🧠✨
-
-🔥 **What I'm doing:**
-- 🏗️ Building **full-stack MERN** projects (with real users, live deploys)
-- 🤖 Deep-diving into **Machine Learning & AI** (the new frontier)
-- 💪 Grinding **DSA** for interviews & algo optimization
-- 📈 Maintaining **solid CGPA** (because balance > burnout)
-
----
-
-## 🛠️ **Tech Stack**
-
 <div align="center">
 
-### 🎨 Frontend Sorcery
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=250&section=header&text=Hi%20There,%20I'm%20Khushneet%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20things,%20breaking%20things,%20learning%20in%20public&descAlignY=55&descSize=18" width="100%"/>
 
-### ⚙️ Backend Power
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🤖 ML/AI Arsenal
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 📚 Data & DSA
-![DSA](https://img.shields.io/badge/DSA-Expert-blueviolet?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<a href="https://www.linkedin.com/in/khushneet">
+  <img src="https://readme-typing-svg.demolab.com/?lines=CSE+Student+%40+MRSPTU;Builder+of+CGPA+Pulse;Clean-Beauty+%26+Code+Enthusiast;Always+debugging+something...;Open+to+SDE+opportunities+🚀&font=Fira%20Code&center=true&width=600&height=45&color=B983FF&vCenter=true&size=22"/>
+</a>
 
 </div>
 
 ---
 
-## 🚀 **Projects That Actually Work**
+### 🧬 About Me
 
-### 1. 📊 **CGPA Pulse** 
-> *The GPA calculator your academic life needed*
+```yaml
+name: Khushneet Kaur
+role: Computer Science Engineering Student, 4th Year
+university: MRSPTU, Bathinda
+currently_building: CGPA Pulse — a PWA that actually calculates your CGPA
+currently_learning: [DSA, System Design, Web Dev]
+current_focus: Landing that first SDE role 🎯
+fun_fact: I'll debug your code before I do my skincare routine, and that says a lot
+```
 
-- **Live:** [cgpa-pulse.vercel.app](https://cgpa-pulse.vercel.app)
-- **Stack:** React + Node.js + MongoDB
-- **Features:** Real-time CGPA calculation, semester tracking, visual analytics
-- **Status:** 🟢 Production-ready
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
-### 2. 🌦️ **Weather App**
-- **Stack:** JavaScript + Weather API
-- **Vibe:** Clean, responsive, real-time weather updates
-
-### 3. 🎮 More Coming Soon...
-> *AI/ML projects incoming* 🔄
+- 🎓 4th-year CS Engineering student, actively prepping for placements
+- 💡 Built **CGPA Pulse** after manually calculating CGPAs for half my class — never again
+- 🌱 Currently sharpening DSA + web dev skills
+- 🎨 Side interest: clean-ingredient skincare & makeup (yes, I read labels like I read stack traces)
+- ⚡ Fun fact: my code and my skincare shelf are both "minimal but effective"
 
 ---
 
-## 📊 **By The Numbers**
+### 🛠️ Tech Stack
 
 <div align="center">
 
-| Metric | Status |
-|--------|--------|
-| **MERN Projects** | ✅ Deployed & Live |
-| **DSA Grind** | 💪 Ongoing |
-| **AI/ML Journey** | 🚀 Just Starting |
-| **Coffee Consumed** | ☕☕☕☕☕ (infinite) |
+<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,nodejs,git,github,vscode,mysql&theme=dark" />
 
 </div>
 
 ---
 
-## 🎓 **What I'm Learning**
-
-```
-Week 1-4   → Advanced DSA Patterns 🧩
-Week 5-8   → Machine Learning Fundamentals 🤖
-Week 9+    → NLP & Deep Learning 🧠
-Forever    → Never Stop Building 🔥
-```
-
----
-
-## 💬 **Let's Connect!**
+### 🚀 Featured Project
 
 <div align="center">
 
-**[LinkedIn](https://linkedin.com/in/khushneet)** • **[GitHub](https://github.com/KhushneetKaur)** • **[Email](mailto:khushneetgirgla@gmail.com)**
+<a href="https://github.com/khushneetkaur">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=khushneetkaur&repo=cgpa-pulse&theme=radical&hide_border=true" />
+</a>
 
+</div>
+
+> **CGPA Pulse** — an installable PWA solving a real gap at my university: result PDFs show SGPA but never CGPA. Features preloaded subject lists by branch/semester, SGPA→CGPA calculation, a predictor mode, a target mode, and full installability as a home-screen app.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=khushneetkaur&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushneetkaur&layout=compact&theme=radical&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=khushneetkaur&theme=radical&hide_border=true" />
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khushneetkaur&theme=react-dark&hide_border=true" width="100%"/>
 </div>
 
 ---
 
-## ⚡ **Fun Facts About Me**
-
-- 🎵 Code to music (lo-fi hip-hop hits different)
-- 🍕 Pizza + coding = perfect productivity
-- 🌙 Night owl developer (3 AM code hits diff)
-- 🎯 Obsessed with building things that actually solve problems
-- 🔄 Believe in **continuous learning** over perfection
-
----
-
-## 📈 **The Journey**
-
-```
-        ML/AI ✨
-         /
-        /
-    MERN 🏗️ ────── DSA 💪
-      /
-    /
-START 🚀
-```
-
-**Where I started:** Hello World ✋  
-**Where I am:** Building production apps 🏭  
-**Where I'm going:** AI/ML innovations + system design mastery 🚀
-
----
+### 🤝 Let's Connect
 
 <div align="center">
 
-### ✨ _"Code is poetry, debugging is pain, but shipping is glory"_ ✨
-
-**Last Updated:** August 2026  
-**Status:** 🟢 Always Learning | 🔴 Always Coding | 🟡 Always Grinding
+<a href="https://www.linkedin.com/in/khushneet" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:khushneetgirgla@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/khushneetkaur">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
-```
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=khushneetkaur&color=8E2DE2&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" width="100%"/>
