@@ -125,7 +125,7 @@ PWA
 
 ### 📟 CGPA Pulse — a PWA that finally does the math
 
-[![Repo](https://img.shields.io/badge/%3E_VIEW_SOURCE-000000?style=for-the-badge&logo=github&logoColor=FFA500&labelColor=FFA500)](https://github.com/khushneetkaur/cgpa-pulse)
+[![Repo](https://img.shields.io/badge/%3E_VIEW_SOURCE-000000?style=for-the-badge&logo=github&logoColor=FFA500&labelColor=FFA500)](https://github.com/KhushneetKaur/cgpa-pulse)
 
 </div>
 
@@ -156,26 +156,24 @@ PWA
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=khushneetkaur&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=FFA500&icon_color=FFA500&text_color=FFB000&border_color=FFA500" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushneetkaur&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=FFA500&text_color=FFB000&border_color=FFA500" alt="Top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KhushneetKaur&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=FFA500&icon_color=FFA500&text_color=FFB000&border_color=FFA500" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushneetKaur&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=FFA500&text_color=FFB000&border_color=FFA500" alt="Top languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=khushneetkaur&hide_border=true&background=0D0D0D&stroke=FFA500&ring=FFA500&fire=FFA500&currStreakLabel=FFB000&sideLabels=FFB000&dates=FFB000&currStreakNum=FFA500&sideNums=FFA500" alt="Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KhushneetKaur&hide_border=true&background=0D0D0D&stroke=FFA500&ring=FFA500&fire=FFA500&currStreakLabel=FFB000&sideLabels=FFB000&dates=FFB000&currStreakNum=FFA500&sideNums=FFA500" alt="Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khushneetkaur&bg_color=0D0D0D&color=FFA500&line=FFA500&point=FFB000&area=true&area_color=FFA500&hide_border=true" width="100%" alt="Activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhushneetKaur&bg_color=0D0D0D&color=FFA500&line=FFA500&point=FFB000&area=true&area_color=FFA500&hide_border=true" width="100%" alt="Activity graph"/>
 
 </div>
 
-<details>
-<summary><b>🐍 Deploy contribution snake (optional)</b></summary>
-<br/>
+<div align="center">
 
-Add the [platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo, then embed:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KhushneetKaur/KhushneetKaur/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KhushneetKaur/KhushneetKaur/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KhushneetKaur/KhushneetKaur/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
-```md
-<img src="https://raw.githubusercontent.com/khushneetkaur/khushneetkaur/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
-```
-
-</details>
+</div>
 
 ---
 
@@ -189,11 +187,11 @@ Add the [platane/snk](https://github.com/Platane/snk) GitHub Action to your prof
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFA500&labelColor=FFA500)](https://www.linkedin.com/in/khushneet)
 [![Gmail](https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFA500&labelColor=FFA500)](mailto:khushneetgirgla@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFA500&labelColor=FFA500)](https://github.com/khushneetkaur)
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFA500&labelColor=FFA500)](https://github.com/KhushneetKaur)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=khushneetkaur&color=FFA500&style=for-the-badge&label=UNITS+SCANNED)
+![Profile Views](https://komarev.com/ghpvc/?username=KhushneetKaur&color=FFA500&style=for-the-badge&label=UNITS+SCANNED)
 
 </div>
 
