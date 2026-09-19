@@ -1,0 +1,35 @@
+name: Generate Dashboard
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # once a day
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate dashboard SVG
+        env:
+          GH_USERNAME: KhushneetKaur
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python generate_dashboard.py
+
+      - name: Push to dashboard-output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: dashboard-output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
