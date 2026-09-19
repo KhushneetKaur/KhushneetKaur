@@ -58,10 +58,14 @@ def main():
         ("FORKS", total_forks),
     ]
 
-    box_w, box_h, gap = 190, 90, 16
+    margin, gap, box_h = 20, 16, 90
+    # canvas width is derived FROM the boxes, never hardcoded, so nothing can overflow the frame
+    total_width = margin * 2 + len(stats) * 190 + (len(stats) - 1) * gap
+    box_w = (total_width - margin * 2 - (len(stats) - 1) * gap) / len(stats)
+
     boxes_svg = ""
     for i, (label, value) in enumerate(stats):
-        x = 20 + i * (box_w + gap)
+        x = margin + i * (box_w + gap)
         boxes_svg += f"""
         <g transform="translate({x},20)">
           <rect width="{box_w}" height="{box_h}" rx="8" fill="#141414" stroke="#FFA500" stroke-width="2"/>
@@ -82,8 +86,9 @@ def main():
         <text x="{140 + 310}" y="{bar_y + 14}" font-family="Courier New, monospace" font-size="12" fill="#FFA500">{count}</text>"""
         bar_y += 30
 
-    svg = f"""<svg width="820" height="{bar_y + 20}" viewBox="0 0 820 {bar_y + 20}" xmlns="http://www.w3.org/2000/svg">
-  <rect width="820" height="{bar_y + 20}" rx="12" fill="#0a0a0a" stroke="#FFA500" stroke-width="2"/>
+    svg_h = bar_y + 20
+    svg = f"""<svg width="{total_width}" height="{svg_h}" viewBox="0 0 {total_width} {svg_h}" xmlns="http://www.w3.org/2000/svg">
+  <rect width="{total_width}" height="{svg_h}" rx="12" fill="#0a0a0a" stroke="#FFA500" stroke-width="2"/>
   {boxes_svg}
   <text x="20" y="135" font-family="Courier New, monospace" font-size="13" fill="#FFB000" letter-spacing="2">TOP_LANGUAGES</text>
   {bars_svg}
