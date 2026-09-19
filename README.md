@@ -4,19 +4,25 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2b1a00,100:1a1a1a&height=230&section=header&text=%3E%20KHUSHNEET.EXE&fontSize=46&fontColor=FFA500&animation=fadeIn&fontAlignY=38&desc=BOOTING%20FULL-STACK%20DEV%20UNIT...&descAlignY=58&descSize=18&descColor=FFB000)
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3500&pause=900&color=FFA500&background=00000000&center=true&vCenter=true&width=700&lines=%3E+INIT+CS+ENGINEER...;%3E+LOADING+MERN+STACK...;%3E+BUILDING+CGPA_PULSE.APP;%3E+STATUS%3A+OPEN_TO_SDE_ROLES" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-FFA500?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=000000" />
-<img src="https://img.shields.io/badge/ROLE-FINAL_YEAR_CSE-FFA500?style=for-the-badge&logo=archlinux&logoColor=black&labelColor=000000" />
-<img src="https://img.shields.io/badge/MODE-BUILDER-FFA500?style=for-the-badge&logo=hackaday&logoColor=black&labelColor=000000" />
+<img src="https://raw.githubusercontent.com/KhushneetKaur/KhushneetKaur/main/assets/header.svg" width="100%" alt="terminal boot header" />
 
 </div>
 
 <br/>
+
+```ansi
+┌──────────────────────────────────────────────────────────────┐
+│  root@khushneet:~$ ./boot_check.sh                            │
+└──────────────────────────────────────────────────────────────┘
+```
+
+```diff
++ [OK]   loading identity module...........done
++ [OK]   mounting project directories.......done
++ [OK]   syncing github contribution grid...done
++ [OK]   compiling skillset..................done
++ [READY] system operational — scroll for full diagnostics ↓
+```
 
 ```ansi
 ┌──────────────────────────────────────────────────────────────┐
@@ -26,7 +32,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="100%" valign="top">
 
 ```yaml
 > UNIT_ID:        Khushneet Kaur
@@ -42,11 +48,6 @@
 - `[✓]` Built **CGPA Pulse** from a real gap at my university — no one else was going to fix it
 - `[✓]` Currently grinding DSA + System Design for placement season
 - `[~]` Side process running: clean-ingredient skincare — I read labels like stack traces
-
-</td>
-<td width="40%" valign="top" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KhushneetKaur&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&bg_color=0d0d0d&title_color=FFA500&icon_color=FFA500&text_color=FFB000&border_color=FFA500" alt="quick stats" width="100%"/>
 
 </td>
 </tr>
@@ -150,22 +151,15 @@ PWA
 
 ```ansi
 ┌──────────────────────────────────────────────────────────────┐
-│  root@khushneet:~$ fetch --stats                               │
+│  root@khushneet:~$ fetch --stats --self-hosted                │
 └──────────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KhushneetKaur&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=FFA500&icon_color=FFA500&text_color=FFB000&border_color=FFA500" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushneetKaur&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=FFA500&text_color=FFB000&border_color=FFA500" alt="Top languages"/>
+<img src="https://raw.githubusercontent.com/KhushneetKaur/KhushneetKaur/dashboard-output/dashboard.svg" width="100%" alt="stats dashboard" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KhushneetKaur&hide_border=true&background=0D0D0D&stroke=FFA500&ring=FFA500&fire=FFA500&currStreakLabel=FFB000&sideLabels=FFB000&dates=FFB000&currStreakNum=FFA500&sideNums=FFA500" alt="Streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhushneetKaur&bg_color=0D0D0D&color=FFA500&line=FFA500&point=FFB000&area=true&area_color=FFA500&hide_border=true" width="100%" alt="Activity graph"/>
-
-</div>
-
-<div align="center">
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KhushneetKaur/KhushneetKaur/output/github-contribution-grid-snake-dark.svg" />
@@ -191,7 +185,8 @@ PWA
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=KhushneetKaur&color=FFA500&style=for-the-badge&label=UNITS+SCANNED)
+<img src="https://img.shields.io/github/last-commit/KhushneetKaur/cgpa-pulse?style=for-the-badge&label=LAST_COMMIT&color=FFA500&labelColor=000000" alt="last commit" />
+<img src="https://img.shields.io/github/followers/KhushneetKaur?style=for-the-badge&label=FOLLOWERS&color=FFA500&labelColor=000000" alt="followers" />
 
 </div>
 
