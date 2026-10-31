@@ -1,0 +1,42 @@
+<svg width="848" height="230" viewBox="0 0 848 230" xmlns="http://www.w3.org/2000/svg">
+  <rect width="848" height="230" rx="12" fill="#0a0a0a" stroke="#FFA500" stroke-width="2"/>
+  
+        <g transform="translate(20.0,20)">
+          <rect width="190.0" height="90" rx="8" fill="#141414" stroke="#FFA500" stroke-width="2"/>
+          <text x="95.0" y="40" text-anchor="middle" font-family="Courier New, monospace"
+                font-size="30" fill="#FFB000" font-weight="bold">3</text>
+          <text x="95.0" y="68" text-anchor="middle" font-family="Courier New, monospace"
+                font-size="13" fill="#FFA500" letter-spacing="2">REPOS</text>
+        </g>
+        <g transform="translate(226.0,20)">
+          <rect width="190.0" height="90" rx="8" fill="#141414" stroke="#FFA500" stroke-width="2"/>
+          <text x="95.0" y="40" text-anchor="middle" font-family="Courier New, monospace"
+                font-size="30" fill="#FFB000" font-weight="bold">1</text>
+          <text x="95.0" y="68" text-anchor="middle" font-family="Courier New, monospace"
+                font-size="13" fill="#FFA500" letter-spacing="2">FOLLOWERS</text>
+        </g>
+        <g transform="translate(432.0,20)">
+          <rect width="190.0" height="90" rx="8" fill="#141414" stroke="#FFA500" stroke-width="2"/>
+          <text x="95.0" y="40" text-anchor="middle" font-family="Courier New, monospace"
+                font-size="30" fill="#FFB000" font-weight="bold">0</text>
+          <text x="95.0" y="68" text-anchor="middle" font-family="Courier New, monospace"
+                font-size="13" fill="#FFA500" letter-spacing="2">STARS</text>
+        </g>
+        <g transform="translate(638.0,20)">
+          <rect width="190.0" height="90" rx="8" fill="#141414" stroke="#FFA500" stroke-width="2"/>
+          <text x="95.0" y="40" text-anchor="middle" font-family="Courier New, monospace"
+                font-size="30" fill="#FFB000" font-weight="bold">1</text>
+          <text x="95.0" y="68" text-anchor="middle" font-family="Courier New, monospace"
+                font-size="13" fill="#FFA500" letter-spacing="2">FORKS</text>
+        </g>
+  <text x="20" y="135" font-family="Courier New, monospace" font-size="13" fill="#FFB000" letter-spacing="2">TOP_LANGUAGES</text>
+  
+        <text x="20" y="164" font-family="Courier New, monospace" font-size="14" fill="#FFB000">JavaScript</text>
+        <rect x="140" y="150" width="300" height="18" rx="3" fill="#141414" stroke="#FFA500" stroke-width="1"/>
+        <rect x="140" y="150" width="300" height="18" rx="3" fill="#FFA500"/>
+        <text x="450" y="164" font-family="Courier New, monospace" font-size="12" fill="#FFA500">2</text>
+        <text x="20" y="194" font-family="Courier New, monospace" font-size="14" fill="#FFB000">Python</text>
+        <rect x="140" y="180" width="300" height="18" rx="3" fill="#141414" stroke="#FFA500" stroke-width="1"/>
+        <rect x="140" y="180" width="150" height="18" rx="3" fill="#FFA500"/>
+        <text x="450" y="194" font-family="Courier New, monospace" font-size="12" fill="#FFA500">1</text>
+</svg>
