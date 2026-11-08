@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFA500&labelColor=000000)](https://www.linkedin.com/in/khushneet)
 [![Gmail](https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFA500&labelColor=000000)](mailto:khushneetgirgla@gmail.com)
-[![Last commit](https://img.shields.io/github/last-commit/KhushneetKaur/cgpa-pulse?style=for-the-badge&label=LAST_COMMIT&color=FFA500&labelColor=000000)](https://github.com/KhushneetKaur/cgpa-pulse)
+
 
 </div>
 
