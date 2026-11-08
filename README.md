@@ -1,193 +1,123 @@
-<!-- ═══════════════════════════════════════ -->
-<!--           SYSTEM: KHUSHNEET.EXE         -->
-<!-- ═══════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KhushneetKaur/KhushneetKaur/main/assets/header.svg" width="100%" alt="terminal boot header" />
+<img src="https://raw.githubusercontent.com/KhushneetKaur/KhushneetKaur/main/assets/header.svg" width="100%" alt="Khushneet Kaur terminal boot header" />
 
-</div>
+<a href="https://github.com/KhushneetKaur">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=FFA500&center=true&vCenter=true&width=950&height=50&lines=Full-stack+developer;I+ship+things+students+actually+use;Final-year+CSE+%40+MRSPTU;Open+to+SDE+%2F+Full-Stack+roles" alt="Typing animation: Full-stack developer, ships things students use, final-year CSE, open to SDE roles" />
+</a>
 
 <br/>
 
-```ansi
-┌──────────────────────────────────────────────────────────────┐
-│  root@khushneet:~$ ./boot_check.sh                            │
-└──────────────────────────────────────────────────────────────┘
-```
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFA500&labelColor=000000)](https://www.linkedin.com/in/khushneet)
+[![Gmail](https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFA500&labelColor=000000)](mailto:khushneetgirgla@gmail.com)
+[![Last commit](https://img.shields.io/github/last-commit/KhushneetKaur/cgpa-pulse?style=for-the-badge&label=LAST_COMMIT&color=FFA500&labelColor=000000)](https://github.com/KhushneetKaur/cgpa-pulse)
 
-```diff
-+ [OK]   loading identity module...........done
-+ [OK]   mounting project directories.......done
-+ [OK]   syncing github contribution grid...done
-+ [OK]   compiling skillset..................done
-+ [READY] system operational — scroll for full diagnostics ↓
-```
-
-```ansi
-┌──────────────────────────────────────────────────────────────┐
-│  root@khushneet:~$ whoami                                     │
-└──────────────────────────────────────────────────────────────┘
-```
-
-<table>
-<tr>
-<td width="100%" valign="top">
-
-```yaml
-> UNIT_ID:        Khushneet Kaur
-> CLASS:           Computer Science Engineer [Final Year]
-> BASE:            GZSCCET :: MRSPTU Bathinda
-> CURRENT_BUILD:   CGPA Pulse — full-stack PWA
-> LEARNING_QUEUE:  [DSA, System Design, Full-Stack Dev]
-> LOOKING_FOR:     SDE / Full-Stack roles
-> EASTER_EGG:      debugs code before skincare routine
-```
-
-- `[✓]` Solo full-stack developer — I design, build, ship & maintain end-to-end
-- `[✓]` Built **CGPA Pulse** from a real gap at my university — no one else was going to fix it
-- `[✓]` Currently grinding DSA + System Design for placement season
-- `[~]` Side process running: clean-ingredient skincare — I read labels like stack traces
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-```ansi
-┌──────────────────────────────────────────────────────────────┐
-│  root@khushneet:~$ cat tech_stack.log                         │
-└──────────────────────────────────────────────────────────────┘
+## `$ whoami`
+
+```yaml
+name:          Khushneet Kaur
+role:          Computer Science Engineering student (final year)
+campus:        GZSCCET, MRSPTU Bathinda
+building:      CGPA Pulse, a full-stack PWA
+learning:      DSA, System Design
+open_to:       SDE / Full-Stack roles
+easter_egg:    debugs code before the skincare routine
 ```
 
-<div align="center">
+- 🛠️ Solo full-stack dev: I design, build, ship and maintain things end to end.
+- 🎯 I build from real gaps. CGPA Pulse exists because nobody else was going to fix the problem.
+- 🧴 Side process: clean-ingredient skincare. I read labels like stack traces.
 
-![Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,vite&theme=dark&perline=7)
+---
 
-</div>
+## `$ cat tech_stack.log`
 
 <table align="center">
 <tr>
-<td valign="top" width="25%">
-
-**⚙ LANGUAGES**
-```
-C
-C++
-JavaScript
-```
-
-</td>
-<td valign="top" width="25%">
-
-**🖥 FRONTEND**
-```
-React
-Vite
-HTML5 / CSS3
-```
-
-</td>
-<td valign="top" width="25%">
-
-**🗄 BACKEND**
-```
-Node.js
-Express
-MongoDB / MySQL
-```
-
-</td>
-<td valign="top" width="25%">
-
-**🔧 TOOLS**
-```
-Git / GitHub
-VS Code
-PWA
-```
-
-</td>
+<td align="center" width="25%"><b>⚙️ Languages</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,js&theme=dark" alt="C, C++, JavaScript" /></td>
+<td align="center" width="25%"><b>🖥️ Frontend</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=react,vite,html,css&theme=dark" alt="React, Vite, HTML, CSS" /></td>
+<td align="center" width="25%"><b>🗄️ Backend</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Node.js, Express, MongoDB, MySQL" /></td>
+<td align="center" width="25%"><b>🔧 Tools</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Git, GitHub, VS Code, Vercel" /></td>
 </tr>
 </table>
 
 ---
 
-```ansi
-┌──────────────────────────────────────────────────────────────┐
-│  root@khushneet:~$ ./run featured_project.sh                  │
-└──────────────────────────────────────────────────────────────┘
-```
+## `$ ./run featured_project.sh`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PROJECT-CGPA_PULSE-000000?style=for-the-badge&logo=pwa&logoColor=FFA500&labelColor=FFA500" />
+### 📟 CGPA Pulse: a PWA that finally does the math
 
-### 📟 CGPA Pulse — a PWA that finally does the math
-
-[![Repo](https://img.shields.io/badge/%3E_VIEW_SOURCE-000000?style=for-the-badge&logo=github&logoColor=FFA500&labelColor=FFA500)](https://github.com/KhushneetKaur/cgpa-pulse)
+[![Source](https://img.shields.io/badge/%3E_VIEW_SOURCE-000000?style=for-the-badge&logo=github&logoColor=FFA500&labelColor=000000)](https://github.com/KhushneetKaur/cgpa-pulse)
+<!-- Add a live demo badge here: [![Live](https://img.shields.io/badge/%3E_LIVE_DEMO-FFA500?style=for-the-badge&labelColor=000000)](YOUR_URL) -->
 
 </div>
 
-```diff
-+ WHY   university result PDFs show SGPA per semester but never CGPA —
-+       students were left doing manual, error-prone math every semester.
+**The problem.** University result PDFs show SGPA per semester but never CGPA, so students did manual, error-prone math every single semester.
 
-+ WHAT   preloaded subject lists across Engineering + University Departments
-+        (B.Pharm, Pharm.D, M.Pharm), automatic SGPA → CGPA calculation,
-+        mandatory leaderboard (Overall + Branch tabs), installable PWA.
+**The fix.**
 
-+ HOW    solo-built, full-stack. React 18 + Vite on Vercel, Node/Express +
-+        MongoDB Atlas on Render. Scheme-aware grading engine handles
-+        Engineering's numeric GPA alongside Pharmacy's O/A/B/C/D/F +
-+        percentage system, including Pharm.D's 5-year annual structure.
+- Preloaded subject lists across Engineering and University Departments (B.Pharm, Pharm.D, M.Pharm)
+- Automatic SGPA → CGPA calculation
+- Mandatory leaderboard with Overall and Branch tabs
+- Installable PWA, works like an app on your phone
 
-+ SHIPPED  squashed an iOS login loop, killed a dead CSRF middleware
-+          that was adding latency, and cleaned up duplicate routes.
-```
+**Under the hood.** Solo-built and deployed end to end.
+
+| Layer | Stack |
+|---|---|
+| Frontend | React 18 + Vite, hosted on Vercel |
+| Backend | Node.js + Express, hosted on Render |
+| Database | MongoDB Atlas |
+| Grading engine | Scheme-aware: Engineering's numeric GPA alongside Pharmacy's O/A/B/C/D/F + percentage system, including Pharm.D's 5-year annual structure |
+
+**Production fixes I'm proud of.** Squashed an iOS login loop, removed a dead CSRF middleware that was adding latency, and cleaned up duplicate routes.
+
+<!-- Add a line with real impact, e.g. "Used by N students across M branches" -->
 
 ---
 
-```ansi
-┌──────────────────────────────────────────────────────────────┐
-│  root@khushneet:~$ fetch --stats --self-hosted                │
-└──────────────────────────────────────────────────────────────┘
-```
+## `$ ls ~/beyond_code`
+
+I like building structures and communities from scratch, not just apps.
+
+- **President, Training & Placement Cell, MRSPTU**: leading eight sub-teams (HR, Alumni Relations, Promotion & Networking, Career Guidance, Hackathon, Design, Social Media, LinkedIn)
+- **Co-Founder & President, MRSPTU Music Club**: built the full organizational hierarchy from zero
+- **Former VP, MRSPTU Student Literary Club**
+
+---
+
+## `$ fetch --stats`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KhushneetKaur/KhushneetKaur/dashboard-output/dashboard.svg" width="100%" alt="stats dashboard" />
+<img src="https://raw.githubusercontent.com/KhushneetKaur/KhushneetKaur/dashboard-output/dashboard.svg" width="100%" alt="GitHub stats dashboard" />
 
 <br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KhushneetKaur/KhushneetKaur/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KhushneetKaur/KhushneetKaur/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KhushneetKaur/KhushneetKaur/output/github-contribution-grid-snake.svg" width="100%" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/KhushneetKaur/KhushneetKaur/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 </div>
 
 ---
 
-```ansi
-┌──────────────────────────────────────────────────────────────┐
-│  root@khushneet:~$ ./connect.sh --open-to=SDE_roles           │
-└──────────────────────────────────────────────────────────────┘
-```
+## `$ ./connect.sh`
 
-<div align="center">
+Hiring for SDE / Full-Stack, or want to build something together? I reply fast.
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFA500&labelColor=FFA500)](https://www.linkedin.com/in/khushneet)
-[![Gmail](https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFA500&labelColor=FFA500)](mailto:khushneetgirgla@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFA500&labelColor=FFA500)](https://github.com/KhushneetKaur)
-
-<br/>
-
-<img src="https://img.shields.io/github/last-commit/KhushneetKaur/cgpa-pulse?style=for-the-badge&label=LAST_COMMIT&color=FFA500&labelColor=000000" alt="last commit" />
-<img src="https://img.shields.io/github/followers/KhushneetKaur?style=for-the-badge&label=FOLLOWERS&color=FFA500&labelColor=000000" alt="followers" />
-
-</div>
+📫 [khushneetgirgla@gmail.com](mailto:khushneetgirgla@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/khushneet)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2b1a00,100:1a1a1a&height=120&section=footer)
