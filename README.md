@@ -122,7 +122,13 @@ I like building structures and communities from scratch, not just apps.
 
 ---
 
+## `$ fetch --stats --self-hosted`
+
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/KhushneetKaur/KhushneetKaur/dashboard-output/dashboard.svg" width="100%" alt="Custom GitHub stats dashboard: repos, contributions, commits, pull requests and top languages" />
+
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KhushneetKaur/KhushneetKaur/output/github-contribution-grid-snake-dark.svg" />
@@ -137,4 +143,3 @@ I like building structures and communities from scratch, not just apps.
 📫 [khushneetgirgla@gmail.com](mailto:khushneetgirgla@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/khushneet)
 
 </div>
-
