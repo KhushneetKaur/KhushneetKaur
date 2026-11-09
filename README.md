@@ -56,9 +56,8 @@ easter_egg:    debugs code before the skincare routine
 ### 📟 CGPA Pulse: a PWA that finally does the math
 
 [![Source](https://img.shields.io/badge/%3E_VIEW_SOURCE-000000?style=for-the-badge&logo=github&logoColor=FFA500&labelColor=000000)](https://github.com/KhushneetKaur/cgpa-pulse)
-<!-- LIVE DEMO BADGE: replace YOUR_URL, then uncomment:
-[![Live](https://img.shields.io/badge/%3E_LIVE_DEMO-FFA500?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=000000)](YOUR_URL)
--->
+[![Live](https://img.shields.io/badge/%3E_LIVE_DEMO-FFA500?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=000000)](cgpa-pulse.vercel.app)
+
 
 </div>
 
