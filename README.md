@@ -56,8 +56,9 @@ easter_egg:    debugs code before the skincare routine
 ### 📟 CGPA Pulse: a PWA that finally does the math
 
 [![Source](https://img.shields.io/badge/%3E_VIEW_SOURCE-000000?style=for-the-badge&logo=github&logoColor=FFA500&labelColor=000000)](https://github.com/KhushneetKaur/cgpa-pulse)
-[![Live](https://img.shields.io/badge/%3E_LIVE_DEMO-FFA500?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=000000)](cgpa-pulse.vercel.app)
+[![Live](https://img.shields.io/badge/%3E_LIVE_DEMO-FFA500?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=000000)](https://cgpa-pulse.vercel.app)
 
+**193+ registered students · 70+ on the leaderboard · 10.7% average click-through on Google Search**
 
 </div>
 
@@ -68,8 +69,6 @@ easter_egg:    debugs code before the skincare routine
   <img src="assets/screenshots/install.png" width="30%" alt="CGPA Pulse install as app" />
 </div>
 -->
-
-<!-- IMPACT LINE: add a real number here, e.g. "**Used by N students across M branches.**" -->
 
 **The problem.** University result PDFs show SGPA per semester but never CGPA, so students did manual, error-prone math every single semester.
 
@@ -97,9 +96,15 @@ easter_egg:    debugs code before the skincare routine
 
 ### 💬 Business Class FAQ Bot
 
-A free FAQ chatbot for MRSPTU's Business Class course, which serves 75 colleges and 13,000+ students. Questions that used to flood WhatsApp and phone calls now get instant, consistent answers from one shared link. The FAQ lives in a Google Doc that the course in-charge can edit without touching any code. Deployed on Vercel.
+A free FAQ chatbot for MRSPTU's Business Class course, which serves 75 colleges and 13,000+ students. Questions that used to flood WhatsApp and phone calls now get instant, grounded answers from one shared link. The FAQ lives in a Google Doc that the course in-charge edits, and the bot reads it live, so updating an answer needs zero code.
 
-<!-- Add a repo or live link: [View it →](YOUR_URL) -->
+- Keyword-based RAG with IDF-weighted ranking and prompt grounding, so answers stay tied to the Doc
+- Streaming responses, multi-provider fallback (Groq + Gemini), timeouts, caching and per-visitor rate limiting
+- Understands English, Hindi and Hinglish
+
+**Stack:** Node.js serverless functions on Vercel, plain HTML/CSS/JS, Groq API, Google Gemini API, Google Docs as the content source.
+
+<!-- BOT LINK: add live or repo link here: [View it →](YOUR_URL) -->
 
 ---
 
@@ -108,7 +113,7 @@ A free FAQ chatbot for MRSPTU's Business Class course, which serves 75 colleges 
 I like building structures and communities from scratch, not just apps.
 
 - **President, Training & Placement Cell, MRSPTU**: leading eight sub-teams (HR, Alumni Relations, Promotion & Networking, Career Guidance, Hackathon, Design, Social Media, LinkedIn)
-- **Co-Founder & President, MRSPTU Music Club**: built the full organizational hierarchy from zero
+- **Founder & President, MRSPTU Music Club (2025)**: started it solo and built the full organizational hierarchy from zero
 - **Former VP, MRSPTU Student Literary Club**
 
 ---
